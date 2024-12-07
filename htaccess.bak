@@ -1,0 +1,2 @@
+AddHandler x-httpd-php5-6 .php
+# AddHandler x-httpd-php7-1 .php
